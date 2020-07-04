@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">RunningTranckerApp</string>
-    <string name="google_maps_key">AIzaSyBasV7Tj4WptlRLg9TMLDLcNb_pdJ3YmjM</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBasV7Tj4WptlRLg9TMLDLcNb_pdJ3YmjM</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
 </resources>
